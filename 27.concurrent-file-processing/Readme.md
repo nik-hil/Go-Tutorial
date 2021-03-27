@@ -1,0 +1,1 @@
+more methods at https://github.com/matt4biz/go-class-walk/
