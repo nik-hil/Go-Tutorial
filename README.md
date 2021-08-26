@@ -1,6 +1,6 @@
 # Go-Tutorial
 
-Check this 
+Based On,
 
  - https://github.com/matt4biz/go-class-slides
  - https://github.com/matt4biz/go-class-walk
