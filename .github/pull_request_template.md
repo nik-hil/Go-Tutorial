@@ -1,5 +1,6 @@
-# Story/Issue Link 
-\<link\>
+# Story/Issue/Bug Link 
+\<link\>  ↑ ↑ ↑ Update Title accordingly  ↑ ↑ ↑
+
 
 ## Description
 
