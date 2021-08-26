@@ -1,12 +1,21 @@
-# Story/Issue/Bug Link 
-\<link\>  ↑ ↑ ↑ Update Title accordingly  ↑ ↑ ↑
+↑ ↑ ↑ Update Title accordingly  ↑ ↑ ↑
+# Story/Issue/Bug 
+\<link\>       
+
+- Fixes: n/a
+- Closes: n/a
+- Related: n/a
 
 
-## Description
+## Description 
+
+## Bug resolution 
 
 ## Other information
 
 ## Checklist
- - [] local Pre-commit hook passed
+ - [x] local Pre-commit hook passed
  - [] Test cases passed
- - [] etc
+ - [] Update the README and other applicable documentation pages
+ - [] Running on Chrome, Firefox, Safari browser.
+ - [] 
