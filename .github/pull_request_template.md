@@ -15,7 +15,7 @@
 
 ## Checklist
  - [x] local Pre-commit hook passed
- - [] Test cases passed
- - [] Update the README and other applicable documentation pages
- - [] Running on Chrome, Firefox, Safari browser.
- - [] 
+ - [ ] Test cases passed
+ - [ ] Update the README and other applicable documentation pages
+ - [ ] Running on Chrome, Firefox, Safari browser.
+ - [ ] Any thing else
